@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You can find me :earth_americas::
+- [LinkedIn](https://www.linkedin.com/in/ezequiel-santalla-332852238/)
+- [Twitter](https://twitter.com/eze_santalla)
+- [Instagram](https://www.instagram.com/ezesantalla/)
