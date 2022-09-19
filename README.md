@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ezequiel-santalla](https://github.com/ezequiel-santalla)
+- 👨‍💻 All of my projects are available at [https://github.com/ezequiel-santalla?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, SASS, Bootstrap**
 
