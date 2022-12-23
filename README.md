@@ -3,13 +3,13 @@
 <h1 align="center">Hi :wave:, I'm Ezequiel</h1>
 <h3 align="center">Hi, I'm Ezequiel Santalla, a passionate web developer from Mar del Plata, Argentina.</h3>
 
-- 🔭 I’m currently working on [Los Almendros Tenis Club](https://ezequiel-santalla.github.io/santalla-tenis-club/)
+- 🔭 I’m currently working on [BookStore](https://ezequiel-santalla.github.io/santalla-tenis-club/)
 
 - 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at https://github.com/ezequiel-santalla?tab=repositories
 
-- 💬 Ask me about **HTML, CSS, SASS, Bootstrap**
+- 💬 Ask me about **HTML, CSS, SASS, Bootstrap, JS**
 
 - 📫 How to reach me **ezequielasantalla@gmail.com**
 
