@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi :wave:, I'm Ezequiel</h1>
 <h3 align="center">Hi, I'm Ezequiel Santalla, a passionate web developer from Mar del Plata, Argentina.</h3>
 
