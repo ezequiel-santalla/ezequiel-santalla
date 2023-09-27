@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/ezequiel-santalla?tab=repositories
 
-- 💬 Ask me about **HTML, CSS, SASS, Bootstrap, JavaScript, SweetAlert, React**
+- 💬 Ask me about **HTML, CSS, SASS, Bootstrap, JavaScript, SweetAlert, React, Tailwind CSS, Node JS**
 
 - 📫 How to reach me **ezequielasantalla@gmail.com**
 
